@@ -24,10 +24,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-five-rho-22.vercel.app/api?username=zaidamjad17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-five-rho-22.vercel.app/api/top-langs/?username=zaidamjad17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
+<img src="https://github-readme-stats-five-rho-22.vercel.app/api?username=zaidamjad17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats-five-rho-22.vercel.app/api/top-langs/?username=zaidamjad17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ---
 
