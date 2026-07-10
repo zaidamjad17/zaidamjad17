@@ -2,10 +2,10 @@
 
 **Full-stack developer & founder from Pakistan 🇵🇰** — building AI-powered products and shipping fast.
 
-- 🚀 Currently building **Levels** — an AI-powered IELTS prep platform (adaptive testing, RAG, TTS/STT pipelines)
+- 🚀 Currently building **iLearn** — an AI-powered IELTS prep platform (adaptive testing, RAG, TTS/STT pipelines)
 - 💼 Freelancing under **Sealyst** — web apps, booking systems, payment integrations
-- 🧠 Interested in **AI systems, RAG pipelines and lean startups**
-- 📚 Python Developer who codes more than he studies
+- 🧠 Interested in **AI systems, RAG pipelines, and lean startups**
+- 📚 Business Administration student who codes more than he studies
 
 ---
 
@@ -15,6 +15,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
@@ -24,15 +25,16 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-five-rho-22.vercel.app/api?username=zaidamjad17&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-five-rho-22.vercel.app/api/top-langs/?username=zaidamjad17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats-five-rho-22.vercel.app/api?username=zaidamjad17&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-five-rho-22.vercel.app/api/top-langs/?username=zaidamjad17&layout=compact&card_width=380&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaidamjad117/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidamjad187@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 > *"Ship fast, learn faster."*
